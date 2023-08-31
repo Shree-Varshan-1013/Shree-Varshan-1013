@@ -4,7 +4,7 @@ Hi 👋, I'm Shree Varshan G
 - 👨‍💻 A passionate fullStack developer from India
 - 🔭 I’m currently working on SKCET - LABS
 - 🌱 I’m currently learning Laravel
-- 💬 Ask me about React, Spring Boot, Java, Sqlite3, Laravel, MySQL
+- 💬 Ask me about React, Spring Boot, Java, Laravel, Sqlite3, MySQL
 - 📫 How to reach me shreevarshang2003@gmail.com
 - ⚡ Fun fact while(!bore) Sysout("OverThink !");
 
