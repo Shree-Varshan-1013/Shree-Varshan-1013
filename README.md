@@ -45,8 +45,9 @@ Hi 👋, I'm Shree Varshan G
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shree-Varshan-1013&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shree-Varshan-1013&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shree-Varshan-1013&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img alt="shields" src="[https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white](https://github-readme-stats.vercel.app/api?username=Shree-Varshan-1013&theme=radical&hide_border=false&include_all_commits=true&count_private=false)" />
+  <img alt="streak-status" src="https://github-readme-streak-stats.herokuapp.com/?user=Shree-Varshan-1013&theme=radical&hide_border=false" />
+  <img alt="streak-status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shree-Varshan-1013&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
