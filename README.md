@@ -46,12 +46,15 @@ Hi 👋, I'm Shree Varshan G
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img alt="shields" src="https://github-readme-stats.vercel.app/api?username=Shree-Varshan-1013&theme=radical&hide_border=false&include_all_commits=true&count_private=false)" />
-</div>
-<div align="center">
   <img alt="streak-status" src="https://github-readme-streak-stats.herokuapp.com/?user=Shree-Varshan-1013&theme=radical&hide_border=false" />
 </div>
+
 <div align="center">
-  <img alt="streak-status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shree-Varshan-1013&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shree-Varshan-1013&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&disable_animations=true" height="200" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shree-Varshan-1013&langs_count=10&layout=compact&theme=radical&hide_border=true&disable_animations=true" height="200" />
+</div>
+
+<div align="center">
+  <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Shree-Varshan-1013&column=5&theme=radical&no-frame=true" />
 </div>
 
