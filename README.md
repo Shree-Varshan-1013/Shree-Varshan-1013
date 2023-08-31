@@ -45,7 +45,7 @@ Hi 👋, I'm Shree Varshan G
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img alt="streak-status" src="https://github-readme-streak-stats.herokuapp.com/?user=Shree-Varshan-1013&theme=radical&hide_border=false" />
+  <img alt="streak-status" src="https://github-readme-streak-stats.herokuapp.com/?user=Shree-Varshan-1013&theme=dark&hide_border=false" />
 </div>
 
 <div align="center">
