@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Shree Varshan G<br>A passionate fullStack developer from India<br><br>🔭 I’m currently working on SKCET - LABS<br><br>🌱 I’m currently learning Laravel<br><br>🤝 I’m looking for help with giving ideas<br><br>💬 Ask me about React, Spring Boot, Java, Sqlite3, Laravel, MySQL,<br><br>📫 How to reach me shreevarshang2003@gmail.com<br><br>⚡ Fun fact while(!bore) Sysout("OverThink !");
+Hi 👋, I'm Shree Varshan G<br>A passionate fullStack developer from India<br><br>🔭 I’m currently working on SKCET - LABS<br><br>🌱 I’m currently learning Laravel<br><br>💬 Ask me about React, Spring Boot, Java, Sqlite3, Laravel, MySQL,<br><br>📫 How to reach me shreevarshang2003@gmail.com<br><br>⚡ Fun fact while(!bore) Sysout("OverThink !");
 
 
 ## 🌐 Socials:
