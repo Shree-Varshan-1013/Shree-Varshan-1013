@@ -8,10 +8,8 @@ Hi 👋, I'm Shree Varshan G
 - 📫 How to reach me shreevarshang2003@gmail.com
 - ⚡ Fun fact while(!bore) Sysout("OverThink !");
 
-
 ## 🌐 Socials:
 
-<a href="https://discord.gg/shree_19063" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
 <a href="mailto:shreevarshang2003@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/shree-varshan-g/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
@@ -58,5 +56,3 @@ Hi 👋, I'm Shree Varshan G
 <div align="center">
   <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Shree-Varshan-1013&column=5&theme=radical&no-frame=true" />
 </div>
-
-
