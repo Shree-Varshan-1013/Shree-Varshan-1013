@@ -8,13 +8,15 @@ Hi 👋, I'm Shree Varshan G
 - 📫 How to reach me shreevarshang2003@gmail.com
 - ⚡ Fun fact while(!bore) Sysout("OverThink !");
 
-## 🌐 Socials
+___
 
 <a href="mailto:shreevarshang2003@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/shree-varshan-g/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/f_r_o_z_e_n_f_l_a_m_e_s1013/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-# 💻 Tech Stack
+___
+
+# 💻 Technologies in My Toolbox
 
 <div align="center">
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -23,7 +25,8 @@ Hi 👋, I'm Shree Varshan G
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
@@ -44,7 +47,8 @@ Hi 👋, I'm Shree Varshan G
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-# 📊 GitHub Stats:
+___
+
 <div align="center">
   <img alt="streak-status" src="https://github-readme-streak-stats.herokuapp.com/?user=Shree-Varshan-1013&theme=dark&hide_border=false" />
 </div>
@@ -54,6 +58,10 @@ Hi 👋, I'm Shree Varshan G
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shree-Varshan-1013&langs_count=10&layout=compact&theme=radical&hide_border=true&disable_animations=true" height="200" />
 </div>
 
+___
+
 <div align="center">
   <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Shree-Varshan-1013&column=5&theme=radical&no-frame=true" />
 </div>
+
+___
