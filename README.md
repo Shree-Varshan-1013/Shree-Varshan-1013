@@ -2,11 +2,11 @@
 Hi 👋, I'm Shree Varshan G
 
 - 👨‍💻 A passionate fullStack developer from India
-- 🔭 I’m currently working on SKCET - LABS
-- 🌱 I’m currently learning Laravel
-- 💬 Ask me about React, Spring Boot, Java, Laravel, Sqlite3, MySQL
-- 📫 How to reach me shreevarshang2003@gmail.com
-- ⚡ Fun fact while(!bore) Sysout("OverThink !");
+- 🔭 Exploring new horizons at SKCET - LABS!"
+- 🌱 Delving into the world of Laravel, one line of code at a time!"
+- 💬 Let's chat about the wonders of React, Spring Boot, and more!"
+- 📫 Reach out to me at shreevarshang2003@gmail.com and let's connect!"
+- ⚡ Fun fact: When boredom strikes, it's 'OverThink' mode activated!"
 
 ___
 
